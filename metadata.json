@@ -1,0 +1,6 @@
+{
+  "name": "Call Pro",
+  "description": "Call Pro — প্রিমিয়াম ও আধুনিক স্মার্ট ডায়ালার ও মেসেজিং অ্যাপ। কল রেকর্ডিং, স্প্যাম ব্লকিং, তারিখ অনুযায়ী অথেনটিক অ্যানালিটিক্স, গুগল ড্রাইভ অটো ব্যাকআপ ও ডুয়াল সিম কন্ট্রোল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
